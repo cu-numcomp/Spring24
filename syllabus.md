@@ -55,12 +55,12 @@ Upon completing this course, students will be able to
 
 I'm here to be your partner, not your adversary, and I promise not to waste your time. 
 So I won't grade (score) your work, though I will write feedback and meet with you to reflect and discuss strategy for growth.
-Why? TL;DR: [Evidence](https://cu-numcomp.github.io/spring23/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf) shows that scoring undermines the value of writing comments.
+Why? TL;DR: [Evidence](https://cu-numcomp.github.io/spring24/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf) shows that scoring undermines the value of writing comments.
 
 ![Butler (1988) Table 1](img/Butler1988-Table1.png)
 
 Some activities and quizzes will be auto-scored. Those are formative assessments for you to check your understanding, not grades to be tallied.
-If you're struggling, your journal should reflect on why, make goals for [adaptive coping](https://cu-numcomp.github.io/spring23/downloads/HenryShorterCharkoudianHeemstraCorwin-FAILFrameworkChallengeResponsesSTEM-2019.pdf), and assess how that worked.
+If you're struggling, your journal should reflect on why, make goals for [adaptive coping](https://cu-numcomp.github.io/spring24/downloads/HenryShorterCharkoudianHeemstraCorwin-FAILFrameworkChallengeResponsesSTEM-2019.pdf), and assess how that worked.
 
 ![Henry et al. (2019) Table 1](img/Henry2019-Table1.png)
 

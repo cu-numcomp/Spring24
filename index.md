@@ -34,6 +34,6 @@ Welcome to **Numerical Computation**, CSCI-3656 and CSCI-5606
   * [Eijkhout (2023), **The Art of HPC**](https://theartofhpc.com/)
     * collection of free books on numerical and scientific computing, plus "carpentry"
 * Papers
-  * [Butler, **Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance**](https://cu-numcomp.github.io/spring23/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf)
+  * [Butler, **Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance**](https://cu-numcomp.github.io/spring24/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf)
   * [Turk, **Scaling a code in the human dimension**](https://dl.acm.org/doi/10.1145/2484762.2484782) [arXiv](https://arxiv.org/pdf/1301.7064.pdf)
 :::

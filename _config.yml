@@ -31,7 +31,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/cu-numcomp/spring23
+  url: https://github.com/cu-numcomp/spring24
   branch: main
 
 # Add GitHub buttons to your book

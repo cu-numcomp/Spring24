@@ -8,7 +8,7 @@ CU Boulder: CSCI 3656 and 5606 (Spring 2024)
 
 Recordings will be available in Canvas Mediasite.
 
-### Instructor: [Osita Onyejekwe](https://jedbrown.org), [`osita.onyejekwe@colorado.edu`](mailto:osita.onyejekwe@colorado.edu), ECNW 115K
+### Instructor: [Osita Onyejekwe](https://github.com/CUBuffs), [`osita.onyejekwe@colorado.edu`](mailto:osita.onyejekwe@colorado.edu), ECNW 115K
 
 
 **Office Hours**: Thursdays 4:00 PM - 5:00 PM. I'm also always happy to meet by appointment.

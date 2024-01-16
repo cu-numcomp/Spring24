@@ -2,16 +2,16 @@
 
 ## Logistics
 
-CU Boulder: CSCI 3656 and 5606 (Spring 2023)
+CU Boulder: CSCI 3656 and 5606 (Spring 2024)
 
 ### Recordings
 
 Recordings will be available in Canvas Mediasite.
 
-### Instructor: [Jed Brown](https://jedbrown.org), [`jed.brown@colorado.edu`](mailto:jed.brown@colorado.edu), ECOT 824
+### Instructor: [Osita Onyejekwe](https://jedbrown.org), [`osita.onyejekwe@colorado.edu`](mailto:osita.onyejekwe@colorado.edu), ECNW 115K
 
 
-**Office Hours**: Please complete [this survey](https://www.when2meet.com/?14081593-m9NMR) to give your available times. I'm also always happy to meet by appointment.
+**Office Hours**: Thursdays 4:00 PM - 5:00 PM. I'm also always happy to meet by appointment.
 
 :::{tip}
 Office hours are an important time for asking questions, solving problems, discussion of broader academic and career strategy, and to provide feedback so I can make the class serve your needs and those of people with similar experiences and interests.
